@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Debarpan%20Roy&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Robotics%20%26%20Perception%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Debarpan%20Roy&fontSize=50&fontColor=ffffff&desc=Frontend%20Developer&descSize=20" alt="Debarpan Roy" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Debarpan+Roy;A+passionate+frontend+developer+from+India;Building+Adaptive+2.5D+Lidar+Mapping;Learning+ROS+2+and+the+A*+Algorithm" alt="Typing SVG" />
@@ -133,6 +133,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="Footer" width="100%"/>
 
 </div>
